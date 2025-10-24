@@ -1,8 +1,8 @@
 
 {
-  "name": "privacy-vault-protocol-tests",
+  "name": "privacy-vault-protocol",
   "version": "1.0.0",
-  "description": "Run unit tests on this project.",
+  "description": "Cryptographic record management system with tiered access control on Stacks blockchain.",
   "type": "module",
   "private": true,
   "scripts": {
